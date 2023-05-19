@@ -27,8 +27,8 @@ Any kind of contributions are welcome.
 
 # Developer Details:
 
-Name:- Ankur Bodhak
-Copyright (c) 2022 Ankur Bodhak
+Name:- Nikhil Khare
+Copyright (c) 2023 Nikhil Khare
 
 #License Details:
 Apache License
